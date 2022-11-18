@@ -167,7 +167,8 @@ export all_proxy=socks://127.0.0.1:1080/
  
 ### [توجه](https://github.com/WeAreMahsaAmini/FreeInternet/edit/main/guides/shadowsocks-v2ray-tls/how-to-connect.md#%D8%AA%D9%88%D8%AC%D9%87-1)
 
-### [لیست تمام سرور ها](CONFIGS.md)
+### [لیست تمام سرور ها](C
+ONFIGS.md)
 
 # مک MacOS
 ### استفاده از ([nekoray](https://github.com/MatsuriDayo/nekoray/releases/))
@@ -180,4 +181,7 @@ export all_proxy=socks://127.0.0.1:1080/
 ### [توجه](https://github.com/WeAreMahsaAmini/FreeInternet/edit/main/guides/shadowsocks-v2ray-tls/how-to-connect.md#%D8%AA%D9%88%D8%AC%D9%87-1)
  
 ### [لیست تمام سرور ها](CONFIGS.md)
+Configs.md//
+
+
 
